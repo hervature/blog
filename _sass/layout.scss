@@ -9,8 +9,8 @@
     padding: 0.33334em 0;
     font-size: 1.5em;
     font-weight: 400;
-    @media (min-width: 680px) {
-      font-size: 0.75em;
+    @media (min-width: 940px) {
+      font-size: 1em;
     }
     &:hover {
       background-color: lighten($main-color, 5%);
@@ -33,7 +33,7 @@
 
 /* Separator after menu */
 
-#nav-list:after, #nav-list:before {
+#nav-list:after {
   display: block;
   content: '';
   width: 5rem;
@@ -126,7 +126,7 @@
   &:after {
   	display: block;
     content: '';
-    width: 35rem;
+    width: 5rem;
     height: 1px;
     margin: 23px auto;
     background-color: lighten($text-color, 70%);
