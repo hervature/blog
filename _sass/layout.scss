@@ -33,7 +33,7 @@
 
 /* Separator after menu */
 
-#nav-list:after {
+#nav-list:after, #nav-list:before {
   display: block;
   content: '';
   width: 5rem;
