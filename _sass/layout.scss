@@ -17,8 +17,8 @@
     }
   }
   span {
-      font-weight: 200;
-    }
+    font-weight: 200;
+  }
 }
 
 #nav {
@@ -93,6 +93,7 @@
 
 .fixed {
   position: fixed;
+  width: 100%;
   @media (min-width: 940px) {
     position: static;
   }
