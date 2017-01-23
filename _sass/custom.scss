@@ -5,3 +5,7 @@
 #post-page h2 {
   color: $main-color;
 }
+
+#post-page figure {
+  overflow: scroll;
+}
