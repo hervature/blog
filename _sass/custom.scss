@@ -2,6 +2,10 @@
 
 // -- Put custom style under this point -- //
 
+body {
+  overflow-x: hidden;
+}
+
 #post-page h2 {
   color: $main-color;
 }
