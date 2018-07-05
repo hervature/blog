@@ -6,8 +6,11 @@ author:
   name: "Zachary Hervieux-Moore"
   email: "zhm@princeton.com"
   url: "http://www.hervature.com"
-gems:
+plugins:
   - jekyll-paginate
+  - liquid_reading_time
+  - liquid_pluralize
+  - jekyll-feed
 
 # Build settings
 baseurl: /blog/ # Change this to your relative path (ex: /blog/), or leave just a /
