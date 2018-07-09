@@ -28,7 +28,7 @@ Finally, we get to the most esoteric ML, my legs. I was trying to come up with s
 
 Don't worry, this is the shortest section. Apart from the blog posts I have already mentioned that I intend to write, there are a couple of other things I want to do for my site and blog. First, I intend to commit my Sundays to writing my posts. I hope to maintain several series: updates on my life (think quarterly Christmas card), book reviews, and some others that I don't want to commit to on paper yet. Thus, I will need to upgrade my blog to better navigate these different series. I also want to add search to make it easier for you to find posts because I will hopefully be writing so much that finding one of my old posts will be an issue. The big thing I want to add is an easy way for people to contact me without a third party (email, phone, etc.). So, I am currently looking into software application I can deploy on my website so that you can sign in directly on my blog and have a direct feed to me. It will also have a community aspect where all my readers will be able to discuss individual posts and ask me questions directly. You know, something like Facebook, but more personal. Aside from that, I want to update the style of my website.
 
-If you want to be notified of when I make a new post, I have an RSS feed that you can subscribe to. Just look at your browser bar for the appropriate thing to click.
+~~If you want to be notified of when I make a new post, I have an RSS feed that you can subscribe to. Just look at your browser bar for the appropriate thing to click.~~ Update: Click on the link below!
 
 Cheers for now,
 

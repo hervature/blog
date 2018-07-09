@@ -4,11 +4,22 @@ layout: default
 <article id="post-page">
 	<h2>{{ page.title }}</h2>
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+
+  <!--
+  Reading time plugin not supported on Github pages. TODO: bundle plugin under _plugins
   <p>Time to read: {{ content | reading_time | pluralize: "minute" }}</p>
-	<div class="content">
+	-->
+
+  <div class="content">
 
 		{{ content }}
 
 	</div>
+  <hr>
+
+  <div id="rss">
+    <a href="/atom.xml"><img src="./img/rss.png"></a>
+    <span>Click here to subscribe to my blog!</span>
+  </div>
 </article>
 

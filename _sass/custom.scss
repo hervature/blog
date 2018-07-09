@@ -13,3 +13,13 @@ body {
 #post-page figure {
   overflow: scroll;
 }
+
+#post-page #rss span {
+  vertical-align: middle;
+}
+
+#post-page #rss img {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0;
+}
