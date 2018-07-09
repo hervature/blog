@@ -2,6 +2,7 @@
 title: Goodbye Facebook
 published: true
 ---
+
 ### Intro
 
 Hello all, first and foremost, happy Independence Day to my American readers. It has been over a year since I created since I created this blog and proceeded to write 0 posts. I figured I would use the holiday to write an update on my life. As many of you were probably directed here from Facebook, you will know that I have decided to delete Facebook. I have been meaning to do this for a long time but it is my main form of communication and connection to the communities I am a member of and I did not want to lose this. However, in light of the recent scandals involving Facebook (Cambridge Analytica, intentional dark patterns to confuse users, morally vacuous ads), I have decided to do my part and cast my vote against Facebook by no longer using its services. I will try to keep this post short and talk about three things: why I am deleting Facebook, an update on my life, and my plan for this blog.
