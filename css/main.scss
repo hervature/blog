@@ -6,3 +6,7 @@ sitemap:
 
 //Import
 @import "base", "mixin", "typography", "layout", "syntax.scss", "custom.scss";
+
+figcaption {
+	text-align: center;
+}

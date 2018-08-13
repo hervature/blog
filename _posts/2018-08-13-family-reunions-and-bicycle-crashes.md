@@ -1,0 +1,34 @@
+---
+title: "Weekly Update: Family Reunions & Bicycle Crashes"
+published: true
+---
+
+### Preamble
+
+Hi everyone, hopefully this reaches the masses through [my Twitter](https://twitter.com/hervature). I missed doing a weekly update last week as I was traveling for a family reunion. More on that later. But, this is the first of my "Weekly Update" series and so I hope this gets you subscribed to my RSS feed or Twitter if you want/need a social media notification to come check. Also, with a bit more time this week (read: not being lazy on the train during my commute), get ready for the great Michael Lewis book reviews rapid fire of 2018.
+
+### Family Reunion
+
+Two weekends ago, I travelled up to Kincardine (yay 10 hour drives) for a family reunion on the Hervieux side. This trip was a nice reprieve from the many hours I have been putting into the bike. Jeremy very graciously gave me 3 hours worth of massages in exchange for a case of adult grape juice. This tremendously helped my body recover from the Tour de Fly challenge at my spin studio. Gorging myself Saturday night provided me with a nice cheat weekend. Sarah likes to call them reward weekends, but I am a straight shooter so I call it how it is. It was the first time my family saw my transformation; both body and no beard. Many compliments were had and lots of questions which I will probably summarize in an August post mortem post. But, building on my straight shooter style, I now challenge my family and friends to no longer compliment me (trust me, I am well aware of my body) but to let me know when I am slipping. I.e., "Zach, you're looking a little plump, you no longer training?" While most people find this insulting, I find it extremely helpful as it will prevent any future 65 lbs gains over the course of a couple of years. Without further ado, here are some photos of the weekend:
+
+<figure>
+	<img class="pure-img" src="{{ "/img/family-reunions-and-bicycle-crashes-family.png" | prepend: site.baseurl | replace: '//', '/' }}" alt="My Immediate Family"/>
+	<figcaption>Left to right: Me, Chris, Jen, Lila, Gail, Thomas, Catherine, Sarah, Rory, Jeremy, and Melissa</figcaption>
+</figure>
+
+This is from the pig roast on Saturday which looked and smelled delicious. I can confirm that my will was heavily tested that night. Ignore the ill-fitting clothes, I am in the process of rebuilding the wardrobe to which I thank my aunt Candace for giving me a head start.
+
+<figure>
+	<img class="pure-img" src="{{ "/img/family-reunions-and-bicycle-crashes-catherine.png" | prepend: site.baseurl | replace: '//', '/' }}" alt="My Immediate Family"/>
+	<figcaption>Me and baby Catherine</figcaption>
+</figure>
+
+It was a great weekend and I enjoyed all the catching up. I'd like to close by thanking the Kincardine gang (Paul, Jo, Matt, Adam, anyone I missed) for being hospitable hosts and hope that the next reunion is not so spaced out as the last ones.
+
+### Bicycle Crash
+
+This past weekend was my first foray into doing a long distance bicycle ride outdoors. I decided to get up at 6:00am Sunday to avoid the rain and attempt a self-supported 50 mile ride. I don't have the ride on Strava because my computer died 30 miles into the ride. But I did complete the 50 miles. At mile 49, during my descent to my house, I decided to take a corner at 25mph and test my handling capabilities. Well, let's just say I have some work to do. I exited the corner a bit too wide and rubbed the sidewalk. I bounced off and started to wobble. Instead of fighting it and trying to save it at the risk of crashing hard into the pavement, I intentionally bailed into a *very* conveniently located mulch pile. Body suffered a few scrapes, a little blood, but the thing hurt most was my pride. So I am happy to report that my training is unaffected (as usual, mom is a little distraught but I had prepped her at the family reunion that crashing is a regular occurence when you push the limits). Other than that, the bike has a few cosmetic scratches on the gear set but nothing serious. I bent the rear hanger which is a cheap fix and I will be back on the road in no time. I have no photo to share about the crash which should tell you that the crash, while noteworthy, is nothing too serious.
+
+Until next week,
+
+Zach
