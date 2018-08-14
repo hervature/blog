@@ -35,7 +35,7 @@ This is by far the most interesting section of the book. Perhaps because Japanes
 
 If you want to buy this book and support my site, here is my Amazon affiliate link: {{ page.affiliate-link }}
 
-Next Up: The New New Things: A Silicon Valley Story by Michael Lewis
+Next Up: The New New Thing by Michael Lewis
 
 Cheers,
 
