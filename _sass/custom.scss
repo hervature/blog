@@ -43,3 +43,15 @@ body {
 #post-page figcaption {
 	text-align: center;
 }
+
+#post-page .book-cover {
+  
+  img {
+    max-height: 256px;
+  }
+
+  .affiliate-link {
+    text-align: center;
+    font-size: small;
+  }
+}
